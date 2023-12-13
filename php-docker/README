@@ -16,7 +16,7 @@ Puis dans l'onglet connexion, remplir le nom d'hôte, postgres ou le nom du serv
 
 changer le port en fonction de celui utiliser dans le service postgres (ici c'est bien 5432 donc pas besoin de le changer)
 
-remplir la base de donnée de maintenance, donc le nom de notre bdd défini dans le docker-compose ( ici c'est exampledb)
+remplir la base de donnée de maintenance, donc le nom de notre bdd défini dans le docker-compose ( ici c'est mabdd)
 
 et enfin remplir l'utilisateur et le mot de passe qui sont défini dans le docker-compose (exampleuser et examplepass)
 

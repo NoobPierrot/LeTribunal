@@ -1,6 +1,6 @@
 <?php
 $host = 'postgres'; // Nom du service dans docker-compose
-$db   = 'exampledb';
+$db   = 'mabdd';
 $user = 'exampleuser';
 $pass = 'examplepass';
 
